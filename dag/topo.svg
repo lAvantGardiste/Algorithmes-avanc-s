@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+<rect x="0" y="0" width="100%" height="100%" fill="white" />
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z"/>
+</marker>
+</defs>
+<circle cx="419" cy="233" r="3" fill="blue" />
+<circle cx="579" cy="565" r="3" fill="blue" />
+<circle cx="114" cy="548" r="3" fill="blue" />
+<circle cx="343" cy="303" r="3" fill="blue" />
+<circle cx="178" cy="304" r="3" fill="blue" />
+<circle cx="147" cy="175" r="3" fill="blue" />
+<circle cx="639" cy="347" r="3" fill="blue" />
+<circle cx="150" cy="624" r="3" fill="blue" />
+<circle cx="507" cy="225" r="3" fill="blue" />
+<circle cx="404" cy="571" r="3" fill="blue" />
+<circle cx="419" cy="233" r="3" fill="blue" />
+<line x1="419" y1="233" x2="343" y2="303"
+      style="stroke: darkgray;" marker-end="url(#arrow)" />
+<line x1="507" y1="225" x2="419" y2="233"
+      style="stroke: darkgray;" marker-end="url(#arrow)" />
+<circle cx="579" cy="565" r="3" fill="blue" />
+<line x1="579" y1="565" x2="404" y2="571"
+      style="stroke: darkgray;" marker-end="url(#arrow)" />
+<circle cx="114" cy="548" r="3" fill="blue" />
+<line x1="114" y1="548" x2="150" y2="624"
+      style="stroke: darkgray;" marker-end="url(#arrow)" />
+<circle cx="343" cy="303" r="3" fill="blue" />
+<line x1="343" y1="303" x2="178" y2="304"
+      style="stroke: darkgray;" marker-end="url(#arrow)" />
+<circle cx="178" cy="304" r="3" fill="blue" />
+<line x1="147" y1="175" x2="178" y2="304"
+      style="stroke: darkgray;" marker-end="url(#arrow)" />
+<circle cx="147" cy="175" r="3" fill="blue" />
+<circle cx="639" cy="347" r="3" fill="blue" />
+<line x1="507" y1="225" x2="639" y2="347"
+      style="stroke: darkgray;" marker-end="url(#arrow)" />
+<circle cx="150" cy="624" r="3" fill="blue" />
+<circle cx="507" cy="225" r="3" fill="blue" />
+<circle cx="404" cy="571" r="3" fill="blue" />
+<text x="517" y="225" font-family="Verdana" font-size="10"> P8:[0,-1.000,-1.000]  </text><text x="649" y="347" font-family="Verdana" font-size="10"> P6:[1,-1.000,-1.000]  </text><text x="157" y="175" font-family="Verdana" font-size="10"> P5:[2,-1.000,-1.000]  </text><text x="124" y="548" font-family="Verdana" font-size="10"> P2:[3,-1.000,-1.000]  </text><text x="160" y="624" font-family="Verdana" font-size="10"> P7:[4,-1.000,-1.000]  </text><text x="589" y="565" font-family="Verdana" font-size="10"> P1:[5,-1.000,-1.000]  </text><text x="414" y="571" font-family="Verdana" font-size="10"> P9:[6,-1.000,-1.000]  </text><text x="429" y="233" font-family="Verdana" font-size="10"> P0:[7,-1.000,-1.000]  </text><text x="353" y="303" font-family="Verdana" font-size="10"> P3:[8,-1.000,-1.000]  </text><text x="188" y="304" font-family="Verdana" font-size="10"> P4:[9,-1.000,-1.000]  </text></svg>
